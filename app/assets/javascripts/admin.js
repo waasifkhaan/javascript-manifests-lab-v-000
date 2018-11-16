@@ -1,2 +1,2 @@
-//= hello_world
-//= doesn_nothing
+//= require hello_world
+//= require does_nothing
